@@ -3,7 +3,6 @@ const app = express();
 
 const images = require("./files/images").reverse();
 const cors = require("cors");
-require("./Modals/counter");
 
 app.use(cors());
 
