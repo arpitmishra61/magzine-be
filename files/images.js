@@ -16,6 +16,7 @@ const dataImages = [
   "15-jul19dec19.jpg",
   "16-jan20jun20.jpg",
   "17-jan21jun21.jpg",
+  "18-apr23jun23.jpg",
 ];
 
 module.exports = dataImages;
